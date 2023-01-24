@@ -1,2 +1,2 @@
 # WPU-resolusi
-untuk menyimpan wpu
+bacot
